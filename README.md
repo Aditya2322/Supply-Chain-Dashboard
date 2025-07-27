@@ -2,7 +2,7 @@
 
 A visually rich and interactive dashboard designed to monitor and analyze key supply chain metrics, including total revenue, product sales, costs, stock levels, defect rates, and supplier performance.
 
-![Supply Chain Dashboard Screenshot](./ca751471-2ec2-4d68-a20e-1702cd7906ab.png)
+![Supply Chain Dashboard Screenshot](./images/dashboard.png)
 
 ---
 
